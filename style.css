@@ -1,0 +1,16 @@
+.back{
+    height:100vh;
+    background: linear-gradient(360deg,rgb(158, 28, 108),rgb(29, 87, 135));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    height: 400px;
+    width: 600px;
+    background:linear-gradient(to bottom,#ffffff,rgb(158, 28, 108) );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
